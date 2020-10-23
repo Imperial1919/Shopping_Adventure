@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\bin\Debug\netcoreapp3.1\ShoppingAdventure.exe
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\bin\Debug\netcoreapp3.1\ShoppingAdventure.deps.json
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\bin\Debug\netcoreapp3.1\ShoppingAdventure.runtimeconfig.json
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\bin\Debug\netcoreapp3.1\ShoppingAdventure.runtimeconfig.dev.json
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\bin\Debug\netcoreapp3.1\ShoppingAdventure.dll
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\bin\Debug\netcoreapp3.1\ShoppingAdventure.pdb
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\obj\Debug\netcoreapp3.1\ShoppingAdventure.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\obj\Debug\netcoreapp3.1\ShoppingAdventure.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\obj\Debug\netcoreapp3.1\ShoppingAdventure.AssemblyInfo.cs
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\obj\Debug\netcoreapp3.1\ShoppingAdventure.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\obj\Debug\netcoreapp3.1\ShoppingAdventure.dll
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\obj\Debug\netcoreapp3.1\ShoppingAdventure.pdb
+C:\Users\owner\source\repos\ShoppingAdventure\ShoppingAdventure\obj\Debug\netcoreapp3.1\ShoppingAdventure.genruntimeconfig.cache
